@@ -1,4 +1,8 @@
 var aaa= function(){
         print("Welcome !!!"+name);
-        };
-aaa();
+}
+
+var bbb= function(){
+        print("Welcome BBB !!!"+name);
+        }
+
